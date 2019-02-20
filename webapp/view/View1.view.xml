@@ -16,6 +16,7 @@
 									<Text id="text5" maxLines="0" text="{Id}"/>
 									<Text id="text6" maxLines="0" text="{field1}"/>
 									<Text id="text7" maxLines="0" text="{field2}"/>
+									<Text id="text8" maxLines="0" text="{field2}"/>
 								</cells>
 							</ColumnListItem>
 						</items>
